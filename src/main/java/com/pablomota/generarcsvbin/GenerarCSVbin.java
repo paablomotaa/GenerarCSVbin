@@ -1,6 +1,5 @@
 package com.pablomota.generarcsvbin;
 
-import static com.pablomota.generarcsvbin.GenerarDat.LeerDAT;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.DataInputStream;
